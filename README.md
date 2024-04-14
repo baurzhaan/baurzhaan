@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baurzhaan
-- 👀 interested in coding and learning Ruby and RoR
+- 👀 Learning Ruby and Ruby on Rails!
 
 <!---
 baurzhaan/baurzhaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
