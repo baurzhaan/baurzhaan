@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baur</h1>
-<h3 align="center">A beginner web developer in the UK concentrating on Ruby on Rails</h3>
+<h3 align="center">A beginner web developer concentrating on Ruby on Rails</h3>
 
 🔭 I’m currently working on [Bank Statement Converter](https://github.com/baurzhaan/bank_statement_converter)
 
