@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Baur</h1>
 <h3 align="center">A beginner backend developer from UK</h3>
 
-- 🔭 I’m currently working on [Bank Statement Converter](https://github.com/baurzhaan/bank_statement_converter)
+🔭 I’m currently working on [Bank Statement Converter](https://github.com/baurzhaan/bank_statement_converter)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+🌱 I’m currently learning **Ruby on Rails**
 
-- 📫 How to reach me **zhanabaur@gmail.com**
+📫 How to reach me **zhanabaur@gmail.com**
 
 <p align="left">
 </p>
