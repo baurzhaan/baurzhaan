@@ -22,3 +22,9 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baurzhaan&show_icons=true&locale=en" alt="baurzhaan" /></p>
+
+<h3 align="left">Completed Projects:</h3>
+
+🔭 End of Security notification [End of Security notification script](https://github.com/baurzhaan/end-of-sec)
+
+🔭 Table Tennis England competitions notification [Table Tennis England competitions notification script](https://github.com/baurzhaan/tte-events)
